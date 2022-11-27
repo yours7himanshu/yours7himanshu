@@ -17,7 +17,6 @@
 
 - 💬 Ask me about **Programming and Web Development Stuffs**
 
-- 📫 How to reach me **dinkarhimansu78@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
