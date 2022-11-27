@@ -1,4 +1,4 @@
-![logo](https://www.digitalsolutionservices.com/img/services/web%20development.gif)
+![logo](https://s41660.pcdn.co/wp-content/uploads/2020/04/90-article-banner-2.gif)
 <h1 align="center">Hi 👋, I'm Himanshu Dinkar</h1>
 <h3 align="center">A passionate Software developer from India</h3>
 <img align="right" alt="coding" width="400" src="https://designbuffs.com/wp-content/uploads/2020/11/Boy-Working-From-Home.gif">
