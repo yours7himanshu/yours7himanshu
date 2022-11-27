@@ -1,4 +1,4 @@
-![logo](https://www.hrcloud.com/hubfs/workplace.gif)
+![logo](https://indoanalytica.com/static/images/bannerr.gif)
 <h1 align="center">Hi 👋, I'm Himanshu Dinkar</h1>
 <h3 align="center">A passionate Software developer from India</h3>
 <img align="right" alt="coding" width="400" src="https://designbuffs.com/wp-content/uploads/2020/11/Boy-Working-From-Home.gif">
