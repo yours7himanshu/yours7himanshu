@@ -1,7 +1,7 @@
 ![logo](https://indoanalytica.com/static/images/bannerr.gif)
 <h1 align="center">Hi 👋, I'm Himanshu Dinkar</h1>
 <h3 align="center">A passionate Software developer from India</h3>
-<img align="right" alt="coding" width="400" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExb3lqaDdveW45N2NkaGl3MmNwaTd6a2N6YjZsM3VzYmRwbHRjcDE1aSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/qgQUggAC3Pfv687qPC/giphy.gif">
+<img align="right" alt="coding" width="400" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExbzNrZzVuczVtdGkxOTgyaXJwcTQ4em1pemF6Y3gydHN1aGt1OGVvcyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/M9gbBd9nbDrOTu1Mqx/giphy.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yours7himanshu&label=Profile%20views&color=0e75b6&style=flat" alt="yours7himanshu" /> </p>
 
