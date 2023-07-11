@@ -13,7 +13,7 @@
 
 - 👯 I’m looking to collaborate on **Web development projects**
 
-- 🤝 I’m looking for help on **some amazing projects.**
+- 🤝 Feel free to **connect!**
 
 - 💬 Ask me about **Programming and Web Development Stuffs**
 
