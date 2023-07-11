@@ -7,15 +7,16 @@
 
 <p align="left"> <a href="https://twitter.com/_yours_himanshu" target="blank"><img src="https://img.shields.io/twitter/follow/_yours_himanshu?logo=twitter&style=for-the-badge" alt="_yours_himanshu" /></a> </p>
 
-- 🔭 I’m currently working on **learning new things**
+- 🔭 I am a Fullstack Webdeveloper
 
-- 🌱 I’m currently learning **Java,CSS,HTML.**
+- 🌱 I’m making some fully resposive websites
 
 - 👯 I’m looking to collaborate on **Web development projects**
 
-- 🤝 I’m looking for help on **some cool projects.**
+- 🤝 I’m looking for help on **some amazing projects.**
 
 - 💬 Ask me about **Programming and Web Development Stuffs**
+
 
 
 <h3 align="left">Connect with me:</h3>
