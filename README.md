@@ -1,7 +1,7 @@
 ![logo](https://indoanalytica.com/static/images/bannerr.gif)
 <h1 align="center">Hi 👋, I'm Himanshu Dinkar</h1>
 <h3 align="center">A passionate Software developer from India</h3>
-<img align="right" alt="coding" width="400" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExbzNrZzVuczVtdGkxOTgyaXJwcTQ4em1pemF6Y3gydHN1aGt1OGVvcyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/M9gbBd9nbDrOTu1Mqx/giphy.gif">
+<img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="250">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yours7himanshu&label=Profile%20views&color=0e75b6&style=flat" alt="yours7himanshu" /> </p>
 
@@ -54,9 +54,12 @@
 ![](https://img.shields.io/badge/Tools-GitHub-informational?style=flat&logo=GitHub&color=181717)
 
 
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=yours7himanshu&show_icons=true&locale=en&layout=compact" alt="yours7himanshu" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=yours7himanshu&show_icons=true&locale=en" alt="yours7himanshu" /></p>
+<a href="https://github.com/yours7himanshu">
+  <img src="https://github-readme-stats.vercel.app/api?username=yours7himanshu&show_icons=true&theme=blue-green&layout=compact" alt="Himanshu's GitHub Stats" />
+</a>
+<a href="https://github.com/yours7himanshu">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yours7himanshu&show_icons=true&theme=blue-green&layout=compact" alt"Most use languages"/>
+</a>
+<br />
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=yours7himanshu&" alt="yours7himanshu" /></p>
