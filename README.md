@@ -13,7 +13,7 @@
 
 <div align="center">
   <p><strong>Coding is my love language 💻</strong></p>
-  <img src="https://github.com/yours-majesty/yours-majesty/blob/main/good.gif" alt="Coding Rocks" width="60%"/>
+  <img src="https://github.com/yours7himanshu/yours7himanshu/blob/main/good.gif" alt="Coding Rocks" width="60%"/>
   <br><br>
   <p><strong>"🎓 College. ☕ Coffee. 💻 Code. Repeat."</strong></p>
   <p><strong>Vibing to 🎧</strong></p>
