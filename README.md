@@ -4,7 +4,7 @@
   <a href="https://www.linkedin.com/in/himanshu-dinkar-722612240/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="https://github.com/yours-majesty" target="_blank">
+  <a href="https://github.com/yours7himanshu" target="_blank">
     <img src="https://img.shields.io/static/v1?message=GitHub&style=for-the-badge&logo=github&label=%20&color=black" alt="GitHub" />
   </a>
 </p>
@@ -17,18 +17,18 @@
   <br><br>
   <p><strong>"🎓 College. ☕ Coffee. 💻 Code. Repeat."</strong></p>
   <p><strong>Vibing to 🎧</strong></p>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yours-majesty&theme=dark&fire=FF5E5E&ring=FFB380&currStreakNum=FF5E5E" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yours7himanshu&theme=dark&fire=FF5E5E&ring=FFB380&currStreakNum=FF5E5E" alt="GitHub Streak" />
 </div>
 
 ---
 <h2 align="center">⚡ GitHub Overview ⚡</h2>
 
 <div align="center">
-  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=yours-majesty&theme=github_dark" alt="Profile Details"/>
-  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=yours-majesty&theme=github_dark" alt="Top Languages"/>
-  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=yours-majesty&theme=github_dark" alt="Most Used Languages"/>
-  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=yours-majesty&theme=github_dark" alt="GitHub Stats"/>
-  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=yours-majesty&theme=github_dark" alt="Productive Time"/>
+  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=yours7himanshu&theme=github_dark" alt="Profile Details"/>
+  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=yours7himanshu&theme=github_dark" alt="Top Languages"/>
+  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=yours7himanshu&theme=github_dark" alt="Most Used Languages"/>
+  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=yours7himanshu&theme=github_dark" alt="GitHub Stats"/>
+  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=yours7himanshu&theme=github_dark" alt="Productive Time"/>
 </div>
 
 
