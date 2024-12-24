@@ -12,7 +12,7 @@
 ---
 
 <div align="center">
-  <p><strong>I wanna make world a better place before I die 💎</strong></p>
+  <p><strong>💎 I wanna make world a better place before I die 💎</strong></p>
   <img src="https://github.com/yours7himanshu/yours7himanshu/blob/main/resume-banner.png" alt="resume-banner" width="90%"/>
   <br><br>
   <p><strong>"🎓 College. ☕ Coffee. 💻 Code. Repeat."</strong></p>
