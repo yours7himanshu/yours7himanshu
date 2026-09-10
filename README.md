@@ -1,7 +1,7 @@
 <h1 align="center">Hey!! I'm Himanshu Dinkar <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"></h1>
 
 <p align="center"> 
-  <a href="https://www.linkedin.com/in/himanshu-dinkar-722612240/" target="_blank">
+  <a href="" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="https://github.com/yours7himanshu" target="_blank">
