@@ -76,10 +76,7 @@
 
 ---
 
-<h2 align="center">🔗 Connect with Me 🔗</h2>
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/himanshu-dinkar-722612240/" target="_blank">
+<h2 align="center">🔗 Connect with Me" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="40" width="40"/>
   </a>
   <a href="https://github.com/yours-majesty" target="_blank">
